@@ -1,3 +1,5 @@
+package basico;
+
 public class MathEx {
     
     public static void main(String[] args) {

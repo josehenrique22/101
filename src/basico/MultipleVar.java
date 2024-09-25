@@ -1,3 +1,5 @@
+package basico;
+
 public class MultipleVar {
     public static void main(String[] args) {
         int x = 1;

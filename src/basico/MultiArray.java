@@ -1,3 +1,5 @@
+package basico;
+
 public class MultiArray {
     public static void main(String[] args) {
         // linha e coluna

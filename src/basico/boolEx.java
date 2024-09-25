@@ -1,3 +1,5 @@
+package basico;
+
 public class boolEx {
     
     public static void main(String[] args) {

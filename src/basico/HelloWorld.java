@@ -1,3 +1,5 @@
+package basico;
+
 public class HelloWorld {
     // Modo principal
     public static void main(String[] args) throws Exception {
