@@ -1,3 +1,5 @@
+package arvore;
+
 public class Thee<T extends Comparable> {
     
     private Elemento<T> raiz;
