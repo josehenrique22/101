@@ -1,0 +1,26 @@
+Public - The class is accessible by any other class
+
+Default - The class is only accessible by classes in the same packege. This is when you
+don't specify a modifier.
+
+Private - The code is only accessible with the declared class.
+
+Protected - the code is accessible in the same package and subclasses.
+
+Non-Access Modifiers
+
+final - The class cannot be inherited by other Classes.
+abstract - The Class cannot used to create objects (To access an abstract class, it must be
+inherited for another class.
+
+for Attributes and Methods
+
+final - Attribute and methods cannot be overridden/Modified
+static - Attribute and Methods belongs to the class, rather than an object.
+abstract - Can only be used in an abstract class, and can only be used on methods. the
+method does not have a body, for example abstract void run();. the body is provided by
+the subclass (inherited from).
+transient - Attribute and methods are skkiped when serializing object containing them
+synchronized - methods can only be accessed by one thread at time.
+volatize - the value of a attribute is not catched thread-locally, and is awalys read from
+the "main memory"
